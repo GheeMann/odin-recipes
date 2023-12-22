@@ -1,0 +1,64 @@
+
+#main-title-index {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28pt;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 196, 0);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    padding-top: 5px;
+    top: 0px;
+    text-align: center;
+    
+}
+
+#main-photo {
+    display: block;
+    max-width: 250px;
+    height: auto;
+    filter: invert(100%);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.main-block {
+    display: block;
+    background-color: rgb(238, 238, 238);
+    padding: 25px 100px 50px 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 60%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block-group {
+    padding: 50px 100px 50px 25%;
+}
+
+.block-logo-small {
+    max-width:220px;
+    height: auto;
+    padding-top: 20px;
+}
+
+.block-food {
+    display: inline-block;
+    background-color: rgb(238, 238, 238);
+    color: orange;
+    border-radius: 35px;
+    max-width: 250px;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+.block-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: none;
+}
