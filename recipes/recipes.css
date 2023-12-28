@@ -2,12 +2,10 @@
 #main-title-recipe {
     color: rgb(255, 255, 255);
     background-color: rgb(255, 196, 0);
-    margin: 0px 25% 15px 25%;
+    margin: 0px auto 15px auto;
     padding: 5px 20px 25px 20px;
-    top: 0px;
     text-align: center;
     max-width: fit-content;
-    
 }
 
 .main-page-title {
