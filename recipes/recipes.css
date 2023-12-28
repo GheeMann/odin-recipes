@@ -34,12 +34,43 @@
     text-align: left;
 }
 
-.list-section {
+.ingredient-section {
     background-color: rgb(233, 233, 233);
     border-color: black;
     border-width: 5px;
     padding: 5px 25px 25px 25px;
     border: 7px outset rgb(255, 196, 0);
-    max-width: fit-content;
-    float: right;
+    max-width: 275px;
+    position: relative;
+    float: inline-end;
 }
+.steps-section {
+    background-color: aqua;
+    max-width: 400px;
+    padding: 5px 25px 25px 25px;
+    margin-bottom: 50px;
+}
+
+.other-recipes {
+    background-color: rgb(255, 196, 0);
+    color: white;
+    max-width: fit-content;
+    padding: 5px 25px 25px 25px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.section-heading {
+    font-size: 18pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.section-sub-text {
+    font-size: 12pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    padding: 12px;
+}
+
