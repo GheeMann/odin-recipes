@@ -41,9 +41,12 @@
     padding: 5px 25px 25px 25px;
     border: 7px outset rgb(255, 196, 0);
     max-width: 275px;
-    position: relative;
-    float: inline-end;
+    position: absolute;
+    top: auto;
+    right: 225px;
     color: rgb(168, 129, 0);
+    display: block;
+    margin: auto;
 }
 .steps-section {
     background-color: white;
@@ -54,6 +57,18 @@
 
 }
 
+.steps-one {
+    position: relative;
+    top: auto;
+    left: 200px;
+    
+}
+
+.steps-two {
+    position: relative;
+    left: 200px;
+}
+
 .other-recipes {
     background-color: rgb(255, 196, 0);
     color: white;
@@ -61,6 +76,7 @@
     padding: 5px 25px 25px 25px;
     margin-right: auto;
     margin-left: auto;
+    
 }
 
 .section-heading {
