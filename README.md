@@ -1,5 +1,3 @@
 # odin-recipes
 
-This project marks my first steps into making use of HTML, CSS, and JavaScript, aimed at creating a recipe website. The intended tone of the website will be humorous and comedic, taking inspiration from the Odin Project website. This project aims to enhance my fundamental skills in programming languages and serve as a foundation for tackling more complex and advanced projects in the future. It will focus on improving my abilities in these languages and laying the groundwork for future challenges.
-
-The development of this website may face obstacles due to my existing duties which include overseeing this project, holding a job, and pursuing my studies. My aim is to finalize this project and improve its visual appeal, but it may take longer due to my efforts to manage multiple responsibilities at once.
+Welcome to my first project with HTML and CSS. The tone of this recipe website is intended to be comedic and humorous, taking inspiration from the Odin Project. Through this project, it has strengthen my understanding of programming languages and established a fundamental base for taking on more complex and advanced projects in the future. While it is now complete, I may revisit and improve or even recreate this project in the future. But for now, it stands as a finished project.
